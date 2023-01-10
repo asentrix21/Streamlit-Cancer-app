@@ -147,7 +147,7 @@ pyod==1.0.7
 pyodbc==4.0.35
 pyOpenSSL==22.0.0
 pyparsing==2.4.6
-pypiwin32==223
+pypiwin32
 pyreadline3==3.4.1
 pyrsistent==0.16.0
 PySocks==1.7.1
@@ -155,7 +155,7 @@ python-dateutil==2.8.1
 python-docx==0.8.10
 pytz==2020.1
 pytz-deprecation-shim==0.1.0.post0
-pywin32==304
+pywin32
 pywinpty==0.5.7
 PyYAML==6.0
 pyzmq==23.2.0
